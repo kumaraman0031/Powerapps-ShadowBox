@@ -4,7 +4,7 @@ Power app Shadow box component with many customizable property like border prope
 
 **#If you want more Development on Power App**
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/rkroy007)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/rkroy007)
 
 **#or you send some BNB, Eth or Matic** 
 
